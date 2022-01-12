@@ -1,4 +1,4 @@
-Introduction
+# Introduction
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 1.I take an image in gray scale (we can also take image color and it the app convert to gray scale it self).
 2. In this step we encrypt the image by someone in the list 
